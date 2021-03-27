@@ -1,0 +1,16 @@
+{
+  "name": "rx-polling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cypress open"
+  },
+  "keywords": [],
+  "author": "Sean McCollum <anincrediblyshortname@gmail.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  }
+}
